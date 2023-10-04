@@ -141,5 +141,3 @@ public class SieteYMedioInteractivo {
         System.out.println("Número de cartas en la baraja: " + num_cartas_2);
     }
 }
-
-//a
