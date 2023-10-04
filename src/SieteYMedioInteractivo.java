@@ -129,7 +129,7 @@ public class SieteYMedioInteractivo {
         if (totalJugador > 7.5 || (totalComputadora <= 7.5 && totalComputadora > totalJugador)) {
             System.out.println("¡Gana la computadora!");
         } else if (totalComputadora > 7.5 || totalJugador > totalComputadora) {
-            System.out.println("¡Ganas tú!");
+            System.out.println("¡Ganas tú! ");
         } else {
             System.out.println("Es un empate.");
         }
